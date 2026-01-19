@@ -12,7 +12,7 @@ In this exercise , we will look at some basic tools for reconnaissance of main m
 - Locate all the information you can relating to memory and cache, explain and document it.  
 
 <figure>
-<img src = "https://jor-donegal.github.io/cmc26/images/fig1.jpg">
+<img src = "https://jor-donegal.github.io/CMC26/images/fig1.jpg">
 <figcaption>Fig 1. System Information.</figcaption>
 </figure>
 

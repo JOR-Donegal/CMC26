@@ -13,7 +13,7 @@ You can use the disk sector editor of your choice, but WinHex is a free download
 5. Run again __diskpart__ as administrator.
 6. Carefully list and select the correct disk.
 <figure>
-<img src = "https://jor-donegal.github.io/cmc26/images/fig7.avif">
+<img src = "https://jor-donegal.github.io/CMC26/images/fig7.avif">
 <figcaption>Fig 7. Select disk.</figcaption>
 </figure>
 

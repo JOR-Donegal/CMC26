@@ -22,7 +22,7 @@ One of the most fundamental tools for working with disks is Microsoft’s _diskp
 5. Type the command __list disk__ to identify every disk in the system. Document these disks for your own system before continuing.
 
 <figure>
-<img src = "https://jor-donegal.github.io/cmc26/images/fig4.avif">
+<img src = "https://jor-donegal.github.io/CMC26/images/fig4.avif">
 <figcaption>Fig 4. Output of list disk.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ list disk
 ````
 should now show the new volume. In my case, its disk 8.
 <figure>
-<img src = "https://jor-donegal.github.io/cmc26/images/fig5.avif">
+<img src = "https://jor-donegal.github.io/CMC26/images/fig5.avif">
 <figcaption>Fig 5. Final list disk.</figcaption>
 </figure>
 

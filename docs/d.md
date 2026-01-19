@@ -6,7 +6,7 @@ You may not install software in the computer labs.
 Find a free SMART tool monitor online. I use _Crystal Disk Info_ but use the one from your own hard disk manufacturer.
 
 <figure>
-<img src = "https://jor-donegal.github.io/cmc26/images/fig8.png">
+<img src = "https://jor-donegal.github.io/CMC26/images/fig8.png">
 <figcaption>Fig 8. Crystal Disk Info.</figcaption>
 </figure>
 
