@@ -12,7 +12,7 @@ Find a free SMART tool monitor online. I use _Crystal Disk Info_ but use the one
 
 I have installed a basic disk utility, almost every hard disk manufacturer has their own. Ideally, you should use the tool for the disk in your own system; e.g. a tool from Seagate, Hitachi, Western Digital, etc. 
 
-Locate the tool, install it and test your system. My system is showing six hard drives, a mixture of HDDs and SSDs. If you have an SSD, most of the counters will give you meaningless data. 
+Locate the tool, install it and test your system. My system is showing six hard drives, a mixture of HDDs and SSDs. If you have an SSD, some of the counters will give you meaningless data. 
 
 But what are these values, what do they mean, are they significant? 
 
