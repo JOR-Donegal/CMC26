@@ -1,7 +1,7 @@
 # Diskpart
-Create a Windows VM for the next exercises
+Create a Windows VM for the next exercises.
 
-One of the most fundamental tools for working with disks is Microsoft’s diskpart. Be careful, a mistake here may render your disks unreadable.
+One of the most fundamental tools for working with disks is Microsoft’s _diskpart_. Be careful, a mistake here may render your disks unreadable.
 
 1. Open a command prompt as administrator
 2. Run diskpart
