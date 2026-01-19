@@ -23,7 +23,7 @@ theme:
       # Light Mode
     - scheme: default
       primary: purple
-      accent: yellow
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode

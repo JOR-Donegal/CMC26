@@ -1,5 +1,4 @@
-# MKTemplate
-Template for new teaching notes
+# Practical - CPU, Memory and Cache
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+These notes use a purple color scheme with deep purple for highlighting.
+This is the color scheme for STORAGE notes.
