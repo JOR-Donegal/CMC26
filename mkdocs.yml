@@ -1,4 +1,4 @@
-site_name: Practical - CPU, Memory and Cache
+site_name: Practical - CPU, Memory, Cache
 site_url: https://example.com
 theme:
   name: material
@@ -23,7 +23,7 @@ theme:
       # Light Mode
     - scheme: default
       primary: purple
-      accent: deep purple
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
