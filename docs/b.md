@@ -8,14 +8,14 @@ One of the most fundamental tools for working with disks is Microsoft’s _diskp
 3. Type ? to get help. Read through the options and understand them.
 
 <figure>
-<img src = "https://jor-donegal.github.io/cmc26/images/fig2.avif">
+<img src = "https://jor-donegal.github.io/CMC26/images/fig2.avif">
 <figcaption>Fig 2. DISKPART.</figcaption>
 </figure>
 
 4. If the meaning of any command is unclear, type the command followed by a question mark, to get help.
 
 <figure>
-<img src = "https://jor-donegal.github.io/cmc26/images/fig3.avif">
+<img src = "https://jor-donegal.github.io/CMC26/images/fig3.avif">
 <figcaption>Fig 3. Output of list ?.</figcaption>
 </figure>
 
