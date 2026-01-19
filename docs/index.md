@@ -1,7 +1,7 @@
 # Introduction
 
-!!! abstract "Introduction to Stuff"
+!!! abstract "Introduction to CPU, Memory and Cache"
 
-This will be the main introduction page
+These practical exercises are intended to get you to do initial reconnaissance of Cache and Main Memory. 
+I cover the hardware technology in another module, if you have not yet covered this, discuss with your lecturer.
 
-Edit mkdoc.yml to set the name of this document
