@@ -21,7 +21,7 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
       # Light Mode
-    - scheme: slate
+    - scheme: default
       primary: green
       accent: red
       toggle:
