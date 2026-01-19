@@ -4,6 +4,7 @@ You can use the disk sector editor of your choice, but WinHex is a free download
 1. Open WinHex as administrator. You normally do this by right-clicking.
 2. Using WinHex, open the VHD file created previously.
 3. If you examine the file, it should be completely empty. Beware, with other virtual disk formats, a blank disk may not be blank, there could be header information in the raw file associated with the VHD format itself.
+
 <figure>
 <img src = "https://jor-donegal.github.io/cmc26/images/fig6.avif">
 <figcaption>Fig 6. WinHex.</figcaption>
@@ -39,6 +40,7 @@ again to create a partition table. Then type the commands
 ````
 create partition primary
 list partition
+
 ````
 10. Open WinHex as administrator and open the disk, not the file (F9). Where should the new partition start? Is there anything there? Document it.
 
@@ -51,6 +53,7 @@ active
 to enable it as bootable. Once more, examine with WinHex. Where should the new partition start? Is there anything there?
 
 12. To create a file system, type 
+
 ````
 format FS=NTFS label=TECHCP901 quick 
 ````
