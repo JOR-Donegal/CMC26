@@ -31,7 +31,7 @@ One of the most fundamental tools for working with disks is Microsoft’s _diskp
 7. Create a virtual hard drive on a suitable volume at the command prompt. You can use a USB key as a target disk if you require. My F:\ drive has space free, I used the command
 
 ````
-create vdisk file=f:\techcp901.vhd maximum=1500 to create a 1.5GB disk file. 
+create vdisk file=f:\techcp901.vhd maximum=1500
 ````
 
 to create a 1.5GB disk file. It will take a few minutes.
