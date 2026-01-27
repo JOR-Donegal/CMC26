@@ -1,8 +1,12 @@
 # Introduction
 
-!!! abstract "Practical CPU, Memory, Cache"
+!!! abstract "Practical S1 - CPU, Memory, Cache and Disks"
 
-These practical exercises are intended to get you to do initial reconnaissance of Processor, Cache and Main Memory.
+These practical exercises are intended to get you to do initial reconnaissance of 
+- Processor
+- Cache
+- Main Memory.
+- Disks
 
 I also get you to look at predictive failure analysis for disk...you might want to read above the efficay of this. It sounds great, does it work?
 
