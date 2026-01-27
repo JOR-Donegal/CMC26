@@ -1,6 +1,6 @@
 # Introduction
 
-!!! abstract "Practical S1 - CPU, Memory, Cache and Disks"
+!!! abstract "CPU, Memory, Cache and Disks"
 
 These practical exercises are intended to get you to do initial reconnaissance of 
 - Processor
